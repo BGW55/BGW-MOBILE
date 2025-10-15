@@ -3,7 +3,17 @@
 Space
 <!DOCTYPE html>
 <p align="center">
-  <img src="UIimgs/profile,keypad.png?raw=true" width="40%"/>
-  <img src="UIimgs/stopwatch.png?raw=true" width="40%"/>
-  <img src="UIimgs/start.png?raw=true"width="40%">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="UIimgs/start.png" width="150px" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="UIimgs/profile+keypad.png" width="150px" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="UIimgs/stopwatch.png" width="150px" />
+    </td>
+  </tr>
+</table>
 </p>
