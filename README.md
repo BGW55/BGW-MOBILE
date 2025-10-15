@@ -13,6 +13,8 @@ Space
     </td>
     <td align="center" valign="middle">
       <img src="UIimgs/stopwatch.png" width="150px" />
+    <td align="center" valign="middle">
+      <img src="UIimgs/bubble.gif" width="150px" />
     </td>
   </tr>
 </table>
