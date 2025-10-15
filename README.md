@@ -3,6 +3,6 @@
 Space
 <!DOCTYPE html>
 <p align="center">
-  <img src="/home/codespace/BGW-MOBILE/UIimgs/profile,keypad.png" width="40%"/>
-  <img src="/home/codespace/BGW-MOBILE/UIimgs/stopwatch.png" width="40%"/>
+  <img src="UIimgs/profile,keypad.png?raw=true" width="40%"/>
+  <img src="UIimgs/stopwatch.png?raw=true" width="40%"/>
 </p>
