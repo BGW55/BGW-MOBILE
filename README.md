@@ -4,24 +4,24 @@ Space
 <!DOCTYPE html>
 <p align="center">
 
-<table border="1" frame="box" rules="cols" cellspacing="0" cellpadding="5">
+<table border="1" frame="box" rules="cols" cellspacing="0" cellpadding="5" style="margin-bottom: 0px;">
   <tr>
     <td align="center">
-      <img src="UIimgs/start.png?raw=true" width="150px" />
+      <img src="UIimgs/start.png" width="150px" />
     </td>
     <td align="center">
-      <img src="UIimgs/profile+keypad.png?raw=true" width="150px" />
+      <img src="UIimgs/profile+keypad.png" width="150px" />
     </td>
     <td align="center">
-      <img src="UIimgs/stopwatch.png?raw=true" width="150px" />
+      <img src="UIimgs/stopwatch.png" width="150px" />
     </td>
     <td align="center">
-      <img src="UIimgs/bubble.gif?raw=true" width="150px" />
+      <img src="UIimgs/bubble.gif" width="150px" />
     </td>
   </tr>
 </table>
 
-<table border="0" cellspacing="0" cellpadding="5">
+<table border="0" cellspacing="0" cellpadding="5" style="margin-top: 0px;">
   <tr>
     <td align="center" valign="top" width="150">
       <strong>삼성 엑시노스 소개</strong><br>
