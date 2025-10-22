@@ -10,14 +10,14 @@ Space
       <table border="1" cellpadding="5" cellspacing="0">
         <tr>
           <td align="center" valign="middle">
-            <img src="UIimgs/start.png" width="150" height="300" />
+            <img src="UIimgs/start.png?raw=true" width="150" height="300" />
           </td>
         </tr>
       </table>
       <table border="0" cellpadding="5" cellspacing="0">
         <tr>
           <td align="center" valign="top" width="150">
-            <strong>삼성 엑시노스 소개</strong><br>
+            <strong>엑시노스 칩 소개</strong><br>
             간단한 소개 화면입니다.
           </td>
         </tr>
@@ -28,7 +28,7 @@ Space
       <table border="1" cellpadding="5" cellspacing="0">
         <tr>
           <td align="center" valign="middle">
-            <img src="UIimgs/profile+keypad.png" width="150" height="300" />
+            <img src="UIimgs/profile+keypad.png?raw=true" width="150" height="300" />
           </td>
         </tr>
       </table>
@@ -46,7 +46,7 @@ Space
       <table border="1" cellpadding="5" cellspacing="0">
         <tr>
           <td align="center" valign="middle">
-            <img src="UIimgs/stopwatch.png" width="150" height="300" />
+            <img src="UIimgs/stopwatch.png?raw=true" width="150" height="300" />
           </td>
         </tr>
       </table>
@@ -64,7 +64,7 @@ Space
       <table border="1" cellpadding="5" cellspacing="0">
         <tr>
           <td align="center" valign="middle">
-            <img src="UIimgs/bubble.gif" width="150" height="300" />
+            <img src="UIimgs/bubble.gif?raw=true" width="150" height="300" />
           </td>
         </tr>
       </table>
@@ -72,7 +72,7 @@ Space
         <tr>
           <td align="center" valign="top" width="150">
             <strong>미니 게임</strong><br>
-            간단한 터치 게임 화면
+            간단한 버블 게임 화면
           </td>
         </tr>
       </table>
