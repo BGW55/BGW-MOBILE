@@ -57,6 +57,7 @@ Copyright from 202511057
     - `git push -u origin master`
 
 Q. `git push -u origin main/master`가 뭐가 달라요?
+
 A. `-u` 옵션은 `set-upstream`의 줄임말로 현재 로컬 브랜치(main)를 원격 저장소(origin)의 브랜치에 연결해 추적한다. 다음부터는 `git push`나 `git pull`만 입력해도 되게끔 설정한다.
 
 - 간혹 push 전에 pull을 하라는 경우가 발생한다. 브랜치 이름에 맞게 다음 중 하나 사용:
@@ -80,7 +81,7 @@ A. `-u` 옵션은 `set-upstream`의 줄임말로 현재 로컬 브랜치(main)�
 - `HEAD~1`은 마지막 1개 커밋, `HEAD~2`는 2개를 의미.
 
 
-#### 특정 커밋을 되돌리는 새 커밋 생성 (Revert)[^1]
+#### 특정 커밋을 되돌리는 새 커밋 생성 (Revert)
 
 - `git revert [커밋해시]` (예: `git revert a1b2c3d`)
 
