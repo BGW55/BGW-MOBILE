@@ -6,7 +6,7 @@ Copyright from 202511057 배건우
 
 ### 설치 및 최초 설정
 
-- GIT을 명령줄에서 사용하기 위해 Git을 다운로드하여 설치한다.
+- GIT을 CMD에서 사용하기 위해 Git을 다운로드하여 설치한다.
 - https://desktop.github.com/download/
 - 다운로드 후 CMD에서 다음을 입력해 버전 정보가 나오면 성공: `git --version`
 - 절대 CMD를 관리자 권한으로 열지 말 것.
@@ -148,4 +148,3 @@ A. `-u` 옵션은 `set-upstream`의 줄임말로 현재 로컬 브랜치(main)�
 - `git reflog`는 커밋, 브랜치 이동, reset 등 거의 모든 행동을 기록한다.
 - 실수로 `reset --hard`를 하거나 브랜치를 날려도 `git reflog`에서 과거 커밋 해시(hash)를 찾을 수 있다.
 - 해시만 있으면 `git checkout`이나 `git reset`으로 대부분 복구할 수 있다.
-
