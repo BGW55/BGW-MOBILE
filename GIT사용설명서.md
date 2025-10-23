@@ -10,7 +10,7 @@ Copyright from 202511057
 - GIT을 명령줄에서 사용하기 위해 Git을 다운로드하여 설치한다.
 - https://desktop.github.com/download/
 - 다운로드 후 CMD에서 다음을 입력해 버전 정보가 나오면 성공: `git --version`
-- CMD를 관리자 권한으로 열지 말 것.
+- 절대 CMD를 관리자 권한으로 열지 말 것.
 - 본인의 영문 이름으로 설정: `git config --global user.name "Your Name"`
 - GitHub에 가입한 이메일로 설정: `git config --global user.email "your.email@example.com"`
 
