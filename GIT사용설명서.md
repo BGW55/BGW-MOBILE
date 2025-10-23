@@ -95,7 +95,7 @@ A. `-u` 옵션은 `set-upstream`의 줄임말로 현재 로컬 브랜치(main)�
 #### 삭제 복구 (브랜치)
 
 1) 모든 활동 기록 확인: `git reflog`
-2) 삭제된 브랜치의 마지막 커밋 해시를 찾는다(reflog에 'checkout: moving from [브랜치] to...' 기록 확인).[^1]
+2) 삭제된 브랜치의 마지막 커밋 해시를 찾는다(reflog에 'checkout: moving from [브랜치] to...' 기록 확인).
 3) 해당 해시로 새 브랜치 생성: `git checkout -b [새브랜치] a1b2c3d`
 
 #### 원격 저장소 문제 해결
@@ -132,8 +132,8 @@ A. `-u` 옵션은 `set-upstream`의 줄임말로 현재 로컬 브랜치(main)�
 
 #### 사용 예
 
-1) 브랜치 이동: `git checkout feature`[^1]
-2) 기준 브랜치로 재배치 실행: `git rebase main`[^1]
+1) 브랜치 이동: `git checkout feature`
+2) 기준 브랜치로 재배치 실행: `git rebase main`
 
 #### 절대 주의(황금률)
 
@@ -148,8 +148,4 @@ A. `-u` 옵션은 `set-upstream`의 줄임말로 현재 로컬 브랜치(main)�
 - `git reflog`는 커밋, 브랜치 이동, reset 등 거의 모든 행동을 기록한다.
 - 실수로 `reset --hard`를 하거나 브랜치를 날려도 `git reflog`에서 과거 커밋 해시(hash)를 찾을 수 있다.
 - 해시만 있으면 `git checkout`이나 `git reset`으로 대부분 복구할 수 있다.
-
-원하시면 .md 파일로 저장해서 내려받을 수 있게 만들어 드릴게요. 파일명과 줄바꿈 스타일(Unix LF/Windows CRLF)을 알려주면 반영하겠습니다.
-
-<div align="center"></div>
 
