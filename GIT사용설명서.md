@@ -1,7 +1,6 @@
 ### GITHUB 사용 설명서
 
-배건우
-Copyright from 202511057
+Copyright from 202511057 배건우
 
 ***
 
