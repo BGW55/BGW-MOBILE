@@ -12,7 +12,7 @@ Space
           </td>
         </tr>
       </table>
-      <br> <strong>엑시노스 칩 소개</strong><br>
+      <hr> <br> <strong>엑시노스 칩 소개</strong><br>
       간단한 소개 화면입니다.
     </td>
     <td align="center" valign="top">
@@ -23,7 +23,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>전화 다이얼 앱</strong><br>
       Jetpack Compose로 만든 다이얼 UI
     </td>
@@ -35,7 +35,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>스톱워치</strong><br>
       시간 및 랩 타임 측정 기능
     </td>
@@ -47,7 +47,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>미니 게임</strong><br>
       간단한 버블 게임 화면
     </td>
@@ -62,7 +62,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>엑시노스 칩 소개</strong><br>
       간단한 소개 화면입니다.
     </td>
@@ -74,7 +74,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>전화 다이얼 앱</strong><br>
       Jetpack Compose로 만든 다이얼 UI
     </td>
@@ -86,7 +86,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>스톱워치</strong><br>
       시간 및 랩 타임 측정 기능
     </td>
@@ -98,7 +98,7 @@ Space
           </td>
         </tr>
       </table>
-      <br>
+      <hr> <br>
       <strong>미니 게임</strong><br>
       간단한 버블 게임 화면
     </td>
