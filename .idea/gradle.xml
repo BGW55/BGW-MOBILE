@@ -13,6 +13,10 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/w03" />
             <option value="$PROJECT_DIR$/app/w04" />
+            <option value="$PROJECT_DIR$/app/w04/w05" />
+            <option value="$PROJECT_DIR$/app/w05" />
+            <option value="$PROJECT_DIR$/app/w05_buble_game" />
+            <option value="$PROJECT_DIR$/app/w06" />
           </set>
         </option>
       </GradleProjectSettings>
