@@ -15,11 +15,10 @@
             <option value="$PROJECT_DIR$/app/w04" />
             <option value="$PROJECT_DIR$/app/w04/w05" />
             <option value="$PROJECT_DIR$/app/w05" />
+            <option value="$PROJECT_DIR$/app/w05_bubble_game" />
             <option value="$PROJECT_DIR$/app/w05_buble_game" />
-<<<<<<< HEAD
             <option value="$PROJECT_DIR$/app/w06" />
-=======
->>>>>>> f98562e77f37e490e590809f7879cdab36dff37f
+            <option value="$PROJECT_DIR$/app/wop-rhythmgame" />
           </set>
         </option>
       </GradleProjectSettings>
