@@ -64,7 +64,11 @@ Space
   <tr>
     <td align="center" valign="top">
       <table border="1" cellpadding="5" cellspacing="0">
+<<<<<<< HEAD
         <tr><td align="center" valign="middle"><img src="UIimgs/start.png?raw=true" width="150" height="300" /></td></tr>
+=======
+        <tr><td align="center" valign="middle"><img src="UIimgs/messageloggif.gif?raw=true" width="150" height="300" /></td></tr>
+>>>>>>> 039be1a54aa65ffcb7e956fcbb7cfe9d11bbf689
       </table>
     </td>
     <td align="center" valign="top">
@@ -88,8 +92,13 @@ Space
     <td align="center" valign="top">
       <table border="1" cellpadding="5" cellspacing="0">
         <tr><td align="center" valign="top" width="150" height="90">
+<<<<<<< HEAD
           <strong>엑시노스 칩 소개</strong><br>
           간단한 소개 화면입니다.
+=======
+          <strong>메세지 로그</strong><br>
+          제트팩 컴포즈를 기반으로 만든 메세지 로그.
+>>>>>>> 039be1a54aa65ffcb7e956fcbb7cfe9d11bbf689
         </td></tr>
       </table>
     </td>
@@ -119,4 +128,8 @@ Space
     </td>
   </tr>
 
+<<<<<<< HEAD
 </table>
+=======
+</table>
+>>>>>>> 039be1a54aa65ffcb7e956fcbb7cfe9d11bbf689
