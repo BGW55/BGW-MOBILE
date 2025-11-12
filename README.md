@@ -1,7 +1,7 @@
 # BGW-MOBILE
 모바일 앱 실습
 Space
-현재 동적 캘린더앱 개발중
+
 <table border="0" cellpadding="0" cellspacing="15" align="center">
  프
   <tr>
