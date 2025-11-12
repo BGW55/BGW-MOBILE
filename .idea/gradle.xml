@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
   <component name="GradleMigrationSettings" migrationVersion="1" />
+>>>>>>> 039be1a54aa65ffcb7e956fcbb7cfe9d11bbf689
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -15,12 +18,17 @@
             <option value="$PROJECT_DIR$/app/w04" />
             <option value="$PROJECT_DIR$/app/w04/w05" />
             <option value="$PROJECT_DIR$/app/w05" />
+<<<<<<< HEAD
+            <option value="$PROJECT_DIR$/app/w05_buble_game" />
+            <option value="$PROJECT_DIR$/app/w06" />
+=======
             <option value="$PROJECT_DIR$/app/w05_bubble_game" />
             <option value="$PROJECT_DIR$/app/w05_buble_game" />
             <option value="$PROJECT_DIR$/app/w05_buble_game/wop-calender" />
             <option value="$PROJECT_DIR$/app/w06" />
             <option value="$PROJECT_DIR$/app/wop-calender" />
             <option value="$PROJECT_DIR$/app/wop-rhythmgame" />
+>>>>>>> 039be1a54aa65ffcb7e956fcbb7cfe9d11bbf689
           </set>
         </option>
       </GradleProjectSettings>
