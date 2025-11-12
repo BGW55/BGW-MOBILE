@@ -3,7 +3,6 @@
 Space
 
 <table border="0" cellpadding="0" cellspacing="15" align="center">
- 프
   <tr>
     <td align="center" valign="top">
       <table border="1" cellpadding="5" cellspacing="0">
