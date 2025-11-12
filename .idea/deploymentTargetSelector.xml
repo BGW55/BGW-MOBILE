@@ -11,6 +11,9 @@
       <SelectionState runConfigName="app.wop-rhythmgame">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="app.wop-calender-p">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>

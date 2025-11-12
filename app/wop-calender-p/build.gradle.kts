@@ -5,11 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.adp"
-    compileSdk = 36
+    namespace = "com.example.wop_calender_p"
+    compileSdk {
+        version = release(36)
+    }
 
     defaultConfig {
-        applicationId = "com.example.adp"
+        applicationId = "com.example.wop_calender_p"
         minSdk = 36
         targetSdk = 36
         versionCode = 1
@@ -28,20 +30,18 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
     }
     kotlinOptions {
-        jvmTarget = "17"
+        jvmTarget = "11"
     }
     buildFeatures {
         compose = true
     }
-    buildToolsVersion = "36.0.0"
 }
 
 dependencies {
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
