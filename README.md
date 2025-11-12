@@ -1,122 +1,54 @@
-# BGW-MOBILE
-모바일 앱 실습
-Space
+# BGW-MOBILE: 모바일 앱 실습
+모바일 앱 개발 실습 포트폴리오입니다.
 
-<table border="0" cellpadding="0" cellspacing="15" align="center">
+<br>
+
+<table align="center">
   <tr>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/start.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
+    <td align="center" width="200">
+      <a href="#"> <img src="UIimgs/start.png?raw=true" width="150" height="300" alt="엑시노스 칩 소개"/>
+      </a>
+      <br>
+      <strong>엑시노스 칩 소개</strong>
+      <br>
+      <small>간단한 소개 화면입니다.</small>
     </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/profile+keypad.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
+    <td align="center" width="200">
+      <a href="#"> <img src="UIimgs/profile+keypad.png?raw=true" width="150" height="300" alt="전화 다이얼 앱"/>
+      </a>
+      <br>
+      <strong>전화 다이얼 앱</strong>
+      <br>
+      <small>Jetpack Compose로 만든 다이얼 UI</small>
     </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/stopwatch.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/bubble.gif?raw=true" width="150" height="300" /></td></tr>
-      </table>
-    </td>
-  </tr>
- 
-  <tr>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>엑시노스 칩 소개</strong><br>
-          간단한 소개 화면입니다.
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>전화 다이얼 앱</strong><br>
-          Jetpack Compose로 만든 다이얼 UI
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>스톱워치</strong><br>
-          시간 및 랩 타임 측정 기능
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>미니 게임</strong><br>
-          간단한 버블 게임 화면
-        </td></tr>
-      </table>
+    <td align="center" width="200">
+      <a href="#"> <img src="UIimgs/stopwatch.png?raw=true" width="150" height="300" alt="스톱워치"/>
+      </a>
+      <br>
+      <strong>스톱워치</strong>
+      <br>
+      <small>시간 및 랩 타임 측정 기능</small>
     </td>
   </tr>
   
   <tr>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/messageloggif.gif?raw=true" width="150" height="300" /></td></tr>
-      </table>
+    <td align="center" width="200">
+      <a href="#"> <img src="UIimgs/bubble.gif?raw=true" width="150" height="300" alt="미니 게임"/>
+      </a>
+      <br>
+      <strong>미니 게임</strong>
+      <br>
+      <small>간단한 버블 게임 화면</small>
     </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/profile+keypad.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
+    <td align="center" width="200">
+      <a href="#"> <img src="UIimgs/messageloggif.gif?raw=true" width="150" height="300" alt="메세지 로그"/>
+      </a>
+      <br>
+      <strong>메세지 로그</strong>
+      <br>
+      <small>제트팩 컴포즈 기반 메세지 로그</small>
     </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/stopwatch.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/bubble.gif?raw=true" width="150" height="300" /></td></tr>
-      </table>
-    </td>
+    <td align="center" width="200">
+      </td>
   </tr>
- 
-  <tr>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>메세지 로그</strong><br>
-          제트팩 컴포즈를 기반으로 만든 메세지 로그.
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>전화 다이얼 앱</strong><br>
-          Jetpack Compose로 만든 다이얼 UI
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>스톱워치</strong><br>
-          시간 및 랩 타임 측정 기능
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="top" width="150" height="90">
-          <strong>미니 게임</strong><br>
-          간단한 버블 게임 화면
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-
 </table>
