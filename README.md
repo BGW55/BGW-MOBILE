@@ -55,12 +55,12 @@
       <small>제트팩 컴포즈 기반 메세지 로그</small>
     </td>
         <td align="center">
-      <a href="#"> <img src="IMAGE_PATH_HERE" width="150" height="300" alt="프로젝트 6"/>
+      <a href="#"> <img src="UIimgs/calender.png?raw=true" width="150" height="300" alt="캘린더 앱"/>
       </a>
       <br>
-      <strong>프로젝트 6</strong>
+      <strong>동적 캘린더 앱</strong>
       <br>
-      <small>프로젝트 6 설명</small>
+      <small>보다 개선된 캘린더 앱 개발중 프로토 타입1</small>
     </td>
         <td align="center">
       <a href="#"> <img src="IMAGE_PATH_HERE" width="150" height="300" alt="프로젝트 7"/>
