@@ -5,7 +5,7 @@
   주로 Kotlin과 Jetpack Compose를 사용해 모던 안드로이드 앱을 만듭니다.
 </p>
 
-<h2 align="center">개발 완료 또는 개발중</h2>
+<h2 align="center">주요 프로젝트</h2>
 
 <table align="center">
   <tr>
