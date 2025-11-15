@@ -5,32 +5,6 @@
   주로 Kotlin과 Jetpack Compose를 사용해 모던 안드로이드 앱을 만듭니다.
 </p>
 
----
-
-<h3 align="center">사용 기술</h3> 
-<p align="center">
-  <strong>주요 언어 (Languages):</strong><br>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <br><br>
-  <strong>플랫폼 및 라이브러리 (Platforms & Libraries):</strong><br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/Coroutines-3E85C5?style=for-the-badge&logo=kotlin&logoColor=white">
-</p>
-
-<h3 align="center">깃허브 통계</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BGW55&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGW55&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 <h2 align="center">개발 완료 또는 개발중</h2>
 
 <table align="center">
@@ -112,3 +86,27 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">사용 기술</h3> 
+<p align="center">
+  <strong>주요 언어 (Languages):</strong><br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <br><br>
+  <strong>플랫폼 및 라이브러리 (Platforms & Libraries):</strong><br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+  <img src="https://img.shields.io/badge/Coroutines-3E85C5?style=for-the-badge&logo=kotlin&logoColor=white">
+</p>
+
+<h3 align="center">깃허브 통계</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BGW55&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGW55&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
