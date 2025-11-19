@@ -5,7 +5,7 @@
   주로 Kotlin과 Jetpack Compose를 사용해 모던 안드로이드 앱을 만듭니다.
 </p>
 
-<h2 align="center">주요 프로젝트</h2>
+<h2 align="center">개발 완료 또는 개발중</h2>
 
 <table align="center">
   <tr>
@@ -59,7 +59,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="UIimgs/calender.png?raw=true" width="150" height="300" alt="캘린더 앱"/>
+        <img src="UIimgs\캘린더pt1.png?raw=true" width="150" height="300" alt="캘린더 앱"/>
       </a>
       <br>
       <strong>동적 캘린더 앱</strong>
@@ -68,12 +68,12 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="IMAGE_PATH_HERE" width="150" height="300" alt="프로젝트 7"/>
+        <img src="UIimgs\캘린더pt2.png?raw=true" width="150" height="300" alt="캘린더 앱 프로토 타입2"/>
       </a>
       <br>
-      <strong>프로젝트 7</strong>
+      <strong>동적 캘린더 앱 프로토 타입2</strong>
       <br>
-      <small>프로젝트 7 설명</small>
+      <small>Data class,일정 추가 다이얼로그,상세보기 및 상태표시 로직</small>
     </td>
     <td align="center">
       <a href="#">
