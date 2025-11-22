@@ -77,12 +77,12 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="IMAGE_PATH_HERE" width="150" height="300" alt="프로젝트 8"/>
+        <img src="UIimgs\캘린더pt3.png?raw=true" width="150" height="300" alt="캘린더 앱 프로토 타입 3"/>
       </a>
       <br>
-      <strong>프로젝트 8</strong>
+      <strong>동적 캘린더 앱 프로토 타입3</strong>
       <br>
-      <small>프로젝트 8 설명</small>
+      <small>Room DB+MVVM,Hilt,Custom layout logic,smart context alert,Seamless navigation,UI/UX polishing 추가</small>
     </td>
   </tr>
 </table>
