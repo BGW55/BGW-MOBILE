@@ -38,7 +38,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="UIimgs/bubble.gif?raw=true" width="1S0" height="300" alt="미니 게임"/>
+        <img src="UIimgs/bubble.gif?raw=true" width="150" height="300" alt="미니 게임"/>
       </a>
       <br>
       <strong>미니 게임</strong>
@@ -59,7 +59,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="UIimgs\캘린더pt1.png?raw=true" width="150" height="300" alt="캘린더 앱"/>
+        <img src="UIimgs/캘린더pt1.png?raw=true" width="150" height="300" alt="캘린더 앱"/>
       </a>
       <br>
       <strong>동적 캘린더 앱</strong>
@@ -68,7 +68,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="UIimgs\캘린더pt2.png?raw=true" width="150" height="300" alt="캘린더 앱 프로토 타입2"/>
+        <img src="UIimgs/캘린더pt2.png?raw=true" width="150" height="300" alt="캘린더 앱 프로토 타입2"/>
       </a>
       <br>
       <strong>동적 캘린더 앱 프로토 타입2</strong>
@@ -77,12 +77,12 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="UIimgs\캘린더pt3.png?raw=true" width="150" height="300" alt="캘린더 앱 프로토 타입 3"/>
+        <img src="UIimgs/캘린더pt3.png?raw=true" width="150" height="300" alt="캘린더 앱 프로토 타입 3"/>
       </a>
       <br>
       <strong>동적 캘린더 앱 프로토 타입3</strong>
       <br>
-      <small>Room DB+MVVM,Hilt,Custom layout logic,smart context alert,Seamless navigation,UI/UX polishing 추가</small>
+      <small>Room DB+MVVM, Hilt, Custom layout logic, UI/UX polishing 추가</small>
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@
 
 <h3 align="center">깃허브 통계</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BGW55&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BGW55&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGW55&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
