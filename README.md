@@ -106,7 +106,7 @@
 
 <h3 align="center">깃허브 통계</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BGW55&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BGW55&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGW55&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
