@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/w03">
         <img src="UIimgs/start.png?raw=true" width="100%" alt="Exynos Intro UI"/>
       </a>
       <br>
@@ -21,7 +21,7 @@
       <small>간단한 소개 화면</small>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/w04">
         <img src="UIimgs/profile+keypad.png?raw=true" width="100%" alt="Dialer App UI"/>
       </a>
       <br>
@@ -30,7 +30,7 @@
       <small>Jetpack Compose 다이얼 UI</small>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/w05">
         <img src="UIimgs/stopwatch.png?raw=true" width="100%" alt="Stopwatch App"/>
       </a>
       <br>
@@ -39,7 +39,7 @@
       <small>시간 및 랩 타임 측정</small>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/w05_buble_game">
         <img src="UIimgs/bubble.gif?raw=true" width="100%" alt="Bubble Game"/>
       </a>
       <br>
@@ -51,7 +51,7 @@
   
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/w06">
         <img src="UIimgs/messageloggif.gif?raw=true" width="100%" alt="Message Log UI"/>
       </a>
       <br>
@@ -60,7 +60,7 @@
       <small>Compose 기반 메세지 UI</small>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/wop-calender-p">
         <img src="UIimgs/캘린더pt1.png?raw=true" width="100%" alt="Calendar Prototype 1"/>
       </a>
       <br>
@@ -69,7 +69,7 @@
       <small>기초 캘린더 UI 프로토타입</small>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/wop-calender-p">
         <img src="UIimgs/캘린더pt2.png?raw=true" width="100%" alt="Calendar Prototype 2"/>
       </a>
       <br>
@@ -78,7 +78,7 @@
       <small>일정 추가 및 상세 보기 로직</small>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/BGW55/해당_리포지토리_링크_입력">
+      <a href="https://github.com/BGW55/BGW-MOBILE/tree/main/app/wop-calender-p">
         <img src="UIimgs/캘린더pt3.png?raw=true" width="100%" alt="Calendar Prototype 3"/>
       </a>
       <br>
