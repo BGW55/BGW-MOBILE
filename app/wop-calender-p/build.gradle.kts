@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -6,8 +8,17 @@ plugins {
     id("com.google.dagger.hilt.android")
 }
 
+// ⬇️ [수정됨] Properties 읽어오는 코드 (더 안전한 방식)
+val localProperties = Properties()
+val localPropertiesFile = rootProject.file("local.properties")
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.inputStream().use { stream ->
+        localProperties.load(stream)
+    }
+}
+
 android {
-    namespace = "com.example.wop_calender_p" // ⚠️ 패키지명 확인
+    namespace = "com.example.wop_calender_p" // 패키지명 확인
     compileSdk = 34
 
     defaultConfig {
@@ -18,6 +29,12 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        // ⬇️ [핵심 수정] 따옴표 문법 수정
+        // (기존) ""${...}"" -> (수정) "\"${...}\""
+        // 이렇게 해야 자바 코드에서 String GEMINI_API_KEY = "값"; 으로 생성됩니다.
+        val geminiKey = localProperties.getProperty("GEMINI_API_KEY") ?: ""
+        buildConfigField("String", "GEMINI_API_KEY", "\"$geminiKey\"")
     }
 
     buildTypes {
@@ -33,12 +50,17 @@ android {
     kotlinOptions {
         jvmTarget = "17"
     }
+
     buildFeatures {
         compose = true
+        buildConfig = true
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.5.1"
     }
 }
 
-// ⬇️ [핵심 해결책] 이 블록이 있어야 Hilt 오류가 사라집니다!
 kapt {
     correctErrorTypes = true
 }
@@ -52,6 +74,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation("androidx.compose.material:material-icons-extended") // ✨ 아이콘 라이브러리 추가
 
     // ViewModel
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
@@ -67,7 +90,11 @@ dependencies {
     // Hilt
     implementation("com.google.dagger:hilt-android:2.51.1")
     kapt("com.google.dagger:hilt-android-compiler:2.51.1")
-    implementation("androidx.hilt:hilt-navigation-compose:1.2.0") // hiltViewModel()용
+    implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
+    implementation("javax.inject:javax.inject:1")
+
+    // Gemini (AI)
+    implementation("com.google.ai.client.generativeai:generativeai:0.9.0")
 
     // 테스트
     testImplementation(libs.junit)
