@@ -130,6 +130,40 @@
 
 <br>
 
+<h3 align="center">프로젝트 상세 및 학습 내용</h3>
+
+<br>
+
+#### 동적 캘린더 앱 (Agent Calendar Project)
+`app/wop-calender-p`
+안드로이드의 핵심 아키텍처와 최신 기술을 단계별로 적용하며 고도화한 주력 프로젝트입니다.
+
+* **Ver.1 & 2 (UI & Logic):** `Jetpack Compose`의 `LazyVerticalGrid`를 활용해 달력 뷰를 직접 구현하고, Custom Dialog를 통해 일정 추가/삭제 기능을 개발했습니다.
+* **Ver.3 (Architecture):** **MVVM 패턴**을 도입하여 UI와 데이터 로직을 분리했습니다. `Room Database`를 연동하여 앱 종료 후에도 데이터가 유지되도록 했으며, `Hilt`를 사용해 의존성 주입(DI)을 처리했습니다.
+* **Ver.4 (AI Integration):** **Google Gemini 1.5 flash API**를 활용한 'AI 일정 비서' 기능을 탑재했습니다. 자연어로 일정을 입력하면 AI가 날짜와 시간을 분석해 자동으로 등록해 줍니다.
+* **Ver.5 (Optimization):** 전체적인 UI/UX를 다듬고(Polishing), 불필요한 리컴포지션(Recomposition)을 방지하여 앱 성능을 최적화했습니다.
+
+<br>
+
+#### 리듬 게임 (Rhythm Game Project)
+`app/wop-rhythmgame`
+터치 이벤트 처리와 오디오 싱크를 맞추는 정교한 로직을 구현한 프로젝트입니다.(개발중지)
+
+* **Audio Handling:** `MediaPlayer` 또는 `ExoPlayer`를 활용하여 고음질 음원(`seishunsubliminal.flac`) 재생 및 정지 기능을 구현했습니다.
+* **Sync Logic:** 음악의 비트에 맞춰 노트가 떨어지도록 타이밍 알고리즘을 설계하고, 사용자의 터치 정확도(Perfect, Good, Miss)를 판정하는 로직을 개발했습니다.
+* **Animation:** `Animatable` API를 사용하여 부드러운 노트 낙하 애니메이션과 타격 이펙트를 구현했습니다.
+
+<br>
+
+#### 안드로이드 기초 실습 (Android Basics)
+`app/w03` ~ `app/w06`
+매주 다양한 UI 컴포넌트와 상태 관리 기법을 익히기 위해 진행한 미니 프로젝트들입니다.
+
+* **w06 메세지 로그:** `LazyColumn`과 `Card` 컴포넌트를 사용하여 효율적인 채팅 리스트 UI를 구성했습니다.
+* **w05 스톱워치 & 미니게임:** `LaunchedEffect`와 `StateFlow`를 사용하여 시간의 흐름을 제어하고, 실시간으로 변하는 UI 상태를 관리했습니다.
+* **w04 전화 다이얼:** 복잡한 버튼 그리드 레이아웃을 `Column`과 `Row` 조합으로 깔끔하게 구현했습니다.
+* **w03 엑시노스 소개:** `Image` 컴포넌트와 스크롤 뷰를 활용하여 정보 전달을 위한 정적 페이지를 만들었습니다.
+
 <h3 align="center">사용 기술</h3> 
 
 <p align="center">
