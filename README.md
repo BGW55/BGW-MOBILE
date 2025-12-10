@@ -172,8 +172,6 @@
   <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
@@ -185,14 +183,3 @@
 </p>
 
 <br>
-
-<h3 align="center">깃허브 활동</h3>
-<p align="center">
-  <a href="https://github.com/BGW55">
-    <img src="https://streak-stats.demolab.com?user=BGW55&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br>
-  <a href="https://github.com/BGW55">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGW55&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
-</p>
