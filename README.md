@@ -139,9 +139,9 @@
 안드로이드의 핵심 아키텍처와 최신 기술을 단계별로 적용하며 고도화한 주력 프로젝트입니다.
 
 * **Ver.1 & 2 (UI & Logic):** `Jetpack Compose`의 `LazyVerticalGrid`를 활용해 달력 뷰를 직접 구현하고, Custom Dialog를 통해 일정 추가/삭제 기능을 개발했습니다.
-* **Ver.3 (Architecture):** **MVVM 패턴**을 도입하여 UI와 데이터 로직을 분리했습니다. `Room Database`를 연동하여 앱 종료 후에도 데이터가 유지되도록 했으며, `Hilt`를 사용해 의존성 주입(DI)을 처리했습니다.
+* **Ver.3 (Architecture):** **MVVM 패턴**을 도입하여 UI와 데이터 로직을 분리했습니다. `Room Database`를 연동하여 앱 종료 후에도 데이터가 유지되도록 했으며, `Hilt`를 사용해 의존성 주입을 처리했습니다.
 * **Ver.4 (AI Integration):** **Google Gemini 1.5 flash API**를 활용한 'AI 일정 비서' 기능을 탑재했습니다. 자연어로 일정을 입력하면 AI가 날짜와 시간을 분석해 자동으로 등록해 줍니다.
-* **Ver.5 (Optimization):** 전체적인 UI/UX를 다듬고(Polishing), 불필요한 리컴포지션(Recomposition)을 방지하여 앱 성능을 최적화했습니다.
+* **Ver.5 (Optimization):** 전체적인 UI/UX를 다듬고, 불필요한 리컴포지션을 방지하여 앱 성능을 최적화했습니다.
 
 <br>
 
